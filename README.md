@@ -1,4 +1,4 @@
-# LLM Council
+# PM Decision Cockpit - LLM Council
 
 Local multi-model comparison app that routes a prompt to several LLMs, has them review one another, and then composes a final answer.
 
@@ -72,16 +72,6 @@ npm run dev
 - `frontend/` - browser UI
 - `data/conversations/` - conversation storage
 - `header.jpg` - banner asset
-
-## Current Status
-
-Experimental but coherent. The README and code both frame it as a hack-style demo rather than a maintained product.
-
-## Limitations
-
-- No repo-level license
-- The project depends on an external OpenRouter key
-- Intended as a lightweight local demo
 
 ## License
 
